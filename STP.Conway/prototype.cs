@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace STP.Conway
 {
-  class Prototype  // used for jotting down idea/concept
+  public class Prototype  // used for jotting down idea/concept
   {
     // we assume the field can be any size
     // alive = 1
@@ -19,7 +15,7 @@ namespace STP.Conway
 
 
     // This represents ONE GENERATION
-    public void ApplyRules()
+    public List<List<int>> ApplyRules()
     {
       int r = -1;
       int c = -1;
@@ -35,6 +31,7 @@ namespace STP.Conway
         }
         c = -1;
       }
+      return _grid; 
     }
 
     private void BringToLife(int r, int c)

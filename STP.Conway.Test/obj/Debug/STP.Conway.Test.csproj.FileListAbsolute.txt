@@ -1,0 +1,17 @@
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\STP.Conway.Test.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\STP.Conway.Test.pdb
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\nunit.framework.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\STP.Conway.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\STP.Conway.pdb
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\bin\Debug\nunit.framework.xml
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\obj\Debug\STP.Conway.Test.csprojResolveAssemblyReference.cache
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\obj\Debug\STP.Conway.Test.csproj.CoreCompileInputs.cache
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\obj\Debug\STP.Conway.Test.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway.Test\obj\Debug\STP.Conway.Test.pdb
