@@ -1,0 +1,6 @@
+C:\Shaun\GITHUB\STP.Conway\STP.Conway\bin\Debug\STP.Conway.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway\bin\Debug\STP.Conway.pdb
+C:\Shaun\GITHUB\STP.Conway\STP.Conway\obj\Debug\STP.Conway.csprojResolveAssemblyReference.cache
+C:\Shaun\GITHUB\STP.Conway\STP.Conway\obj\Debug\STP.Conway.csproj.CoreCompileInputs.cache
+C:\Shaun\GITHUB\STP.Conway\STP.Conway\obj\Debug\STP.Conway.dll
+C:\Shaun\GITHUB\STP.Conway\STP.Conway\obj\Debug\STP.Conway.pdb
