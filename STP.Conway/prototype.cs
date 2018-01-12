@@ -6,7 +6,7 @@ namespace STP.Conway
   {
     // we assume the field can be any size
     // alive = 1
-    List<List<int>> _grid;
+    public List<List<int>> _grid;
 
     public Prototype(List<List<int>> grid)
     {
@@ -15,7 +15,7 @@ namespace STP.Conway
 
 
     // This represents ONE GENERATION
-    public List<List<int>> ApplyRules()
+    public void ApplyRules()  
     {
       int r = -1;
       int c = -1;
@@ -31,7 +31,6 @@ namespace STP.Conway
         }
         c = -1;
       }
-      return _grid; 
     }
 
     private void BringToLife(int r, int c)
